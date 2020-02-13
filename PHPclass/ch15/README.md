@@ -391,7 +391,7 @@
     |home.blade.php|登入後的首頁|
     |auth/login.bladephp|登入頁面|
     |auth/register.blade.php|註冊頁面|
-    |auth/erify.blade.php|送出驗證碼至 email |
+    |auth/verify.blade.php|送出驗證碼至 email |
     |auth/passwords/email.blade.php|忘記密碼時，重送驗證碼至 email |
     |auth/passwords/reset.blade.php|忘記密碼時，重設密碼|
     |auth/passwords/confirm.blade.php|確認密碼|
